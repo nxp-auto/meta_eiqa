@@ -1,0 +1,7 @@
+# Visual Studio Code configs
+**/.vscode
+
+# workspace
+manifest.*/**
+downloads/**
+externals/**
